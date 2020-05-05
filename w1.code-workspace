@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "scripts",
+			"path": "scripts"
+		},
+		{
+			"name": "clean500",
+			"path": "clean500"
+		},
+		{
+			"name": "clean900",
+			"path": "clean900"
+		},
+		{
+			"name": "clean200",
+			"path": "clean200"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"nChar900.C": "cpp",
+			"nChar900 copy.C": "cpp",
+			"nChar200.C": "cpp",
+			"nChar200 copy.C": "cpp",
+			"nChar500.C": "cpp",
+			"nChar500 copy.C": "cpp",
+			"nChar500_tau.C": "cpp"
+		}
+	}
+}
